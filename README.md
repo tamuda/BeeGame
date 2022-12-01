@@ -1,2 +1,2 @@
 # BeeGame
-Project 6 for CS 171
+Project 3 for CS 171
